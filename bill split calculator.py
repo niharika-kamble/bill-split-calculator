@@ -1,0 +1,5 @@
+amt = int (input ("enter the total bill amt:"))
+frnd =int (input("enter the number of friends :"))
+print("each person will pay :",amt/frnd)
+print(type(amt))
+print(type(frnd))
